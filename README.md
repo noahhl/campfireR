@@ -1,0 +1,1 @@
+Incomplete API wrapper for 37signals' Campfire. Use at your own risk.

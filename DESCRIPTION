@@ -1,0 +1,9 @@
+Package: campfireR
+Title: Campfire API wrapper
+Version: 0.0
+Date: 2011-04-20
+Author: Noah Lorang
+Maintainer: Noah Lorang <noah@noahhl.com>
+Description: CF wrapper
+Depends: RCurl, rjson
+License: MIT
